@@ -1,0 +1,12 @@
+.fc-daygrid-more-hidden-link {
+	display: none;
+}
+
+.fc-calendar-wrapper {
+	height: 100%;
+	padding: 24px;
+}
+
+.fc .fc-daygrid-day.fc-day-today {
+	background-color: transparent;
+}
